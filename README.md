@@ -1,4 +1,4 @@
-## This app changes the image as per time i.e. morning, evening and night.
+## This app changes the image as per time i.e. morning, evening and night. One can choose from a list of locations, to know it's time.
 
 ### Screenshots from the app :
 #### Morning :
